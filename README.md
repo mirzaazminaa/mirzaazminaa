@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mirzaazminaa/mirzaazminaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mirzaazminaa/mirzaazminaa** is a ✨ anak Cloud Computing ✨ repository because its `README.md`
 
 Here are some ideas to get you started:
 
